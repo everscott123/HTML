@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>HW04</title>
+</head>
+<body>
+<a href="campus.jpg" target="_blank">
+<img src="campus2.jpg" border="2">
+</a>
+<p> This is a picture, taken by my radio-controlled airplane. It is actually
+cropped because the original was over half sky and trees.</p>
+<p>You may click on this picture to see the original.</p>
+<img src="campus3.jpg">
+<p> This is a copy of that picture, saved as a .jpg with a quality of 10.
+The trees have become smudges, and many details are now fuzzy.
+</p>
+<p> This is a better version of the picture, only we have distorted it by 
+making it appear as 120x120.<img src="campus4.jpg" align="left" width="120">
+</p>
+<p> Click this thumbnail to go to the Main Website at Southern Adventist
+University<a href="http://www.southern.edu/" target="_blank">
+<img src="wrighthall.jpg" align="left" border="10">
+</p>
+</a>
+
+<a href="http://validator.w3.org/check?uri=referer"><img border="0"
+          src="http://www.cs.southern.edu/jbeckett/WebDev1/valid-html40.png"
+          alt="Valid HTML 4.0!" height="31" width="88" /></a>
+</body>
+</html>
